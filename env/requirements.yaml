@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.82
 - name: service-one
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - name: service-three
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
